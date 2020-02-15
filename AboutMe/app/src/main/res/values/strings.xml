@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">San Neupane</string>
+    <string name="image_description">yellow star image</string>
+    <string name="bio_description">
+        Hello! My name is San Neupane.\n\n
+        I love kotlin programming. I am a CSIT student , currently at sixth
+        semester. I read in Nepathya college. I am a boy.\n
+        I wake up late during holidays. I am currently trying to
+        make this description as long as possible.\n
+
+        Hello! My name is San Neupane.\n\n
+        I love kotlin programming.
+        I am a CSIT student , currently at sixth semester.
+        I read in Nepathya college. I am a boy. I wake up late during
+        holidays. I am currently trying to make this description as
+        long as possible.I love kotlin programming.
+        I am a CSIT student , currently at sixth semester.
+        I read in Nepathya college. I am a boy. I wake up late during
+        holidays. I am currently trying to make this description as
+    </string>
+    <string name="nickname">What\'s your nickname?</string>
+    <string name="button_text">Done</string>
+</resources>
